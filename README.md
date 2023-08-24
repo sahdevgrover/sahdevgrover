@@ -23,5 +23,5 @@ https://www.linkedin.com/in/sahdevgrover/
 
 Looking forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
 
-![](https://komarev.com/ghpvc/?username=sahdevgrover&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=132704247)
 
