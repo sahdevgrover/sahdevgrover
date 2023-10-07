@@ -22,13 +22,16 @@ Feel free to reach out to me on LinkedIn, where we can exchange ideas, experienc
 https://www.linkedin.com/in/sahdevgrover/
 
 Looking forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
-For any further correspondence, please feel free to email me at sahdevgrover02@gmaiol.com.
+For any further correspondence, please feel free to email me at sahdevgrover02@gmail.com.
 
 ![](https://komarev.com/ghpvc/?username=sahdevgrover&label=PROFILE+VIEWS)
 
 ![](https://hit.yhype.me/github/profile?user_id=132704247)
 
-![aws-certified-cloud-practitioner (1)](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/0d290063-5a19-48c9-9610-3059853722bd)   ![hashicorp-certified-terraform-associate-003](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/38084b70-394e-4504-838b-ae9563f55017)
+![hashicorp-certified-terraform-associate-003 (1)](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/2cf200f8-882a-4d59-b150-17c9edd5bf32)  ![aws-certified-cloud-practitioner (2)](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/ddf0dc3a-518a-4a29-b77c-a13c9f9812ec)
+
+
+  
 
 
 
